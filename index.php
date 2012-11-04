@@ -25,7 +25,7 @@
 					<tr>
 						<td class="top left">October 2009 - Present</td>
 						<td class="top">
-							Web Developer at Symbios Group
+							<p><strong>Web Developer at Symbios Group</strong></p>
 							<ul>
 								<li>Lead developer on instant messaging applications, such as web-based multi-user chat room and one-to-one messaging facility. Included building a JavaScript frontend and making custom modifications to open source software in various languages, such as erlang and python.</li>
 								<li>System administration of RedHat-based servers. Introduced the use of puppet to greatly speed up provisioning and maintaining servers.</li>
