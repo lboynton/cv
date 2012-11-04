@@ -44,6 +44,11 @@
 						<td class="middle"><strong>1<sup>st</sup> Class Honours</strong> in BSc Internet Technology from The University of Portsmouth</td>
 						<td>Undergraduate degree covered topics on a variety of subjects including Java, C and PHP programming, system administration, system security and distributed web systems. Final year project was the development of a desktop instant messaging application with streaming audio features, written in Java and using XMPP.</td>
 					</tr>
+					<tr>
+						<td class="left">September 2000 - July 2003</td>
+						<td class="middle">Sandown High School</td>
+						<td>9 GCSEs including Mathematics grade B, Science grade B and English grace C.</td>
+					</tr>
 				</tbody>
 			</table>
 			<h2>Skills</h2>
