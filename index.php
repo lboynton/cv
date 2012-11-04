@@ -2,13 +2,20 @@
 <html>
 	<head>
 		<title>Lee Boynton</title>
-		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen, print">
+		<link href="css/bootstrap.css" rel="stylesheet" media="screen, print">
 		<link href="css/site.css" rel="stylesheet" media="screen, print">
+		<link href="css/font-awesome.css" rel="stylesheet" media="screen, print">
 	</head>
 	<body>
 		<div class="container">
 			<h1>Lee Boynton</h1>
-			<small>Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot; GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot; Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot; LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot; Delicious: <a href="http://www.delicious.com/l33">l33</a></small>
+			<small>
+				<i class="icon-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot; 
+				<i class="icon-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot; 
+				<i class="icon-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot; 
+				<i class="icon-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot; 
+				<i class="icon-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
+			</small>
 			<hr>
 			<p>Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a Hampshire-based company specialising in online dating and social networking.</p>
 			<hr>
