@@ -27,9 +27,9 @@
 						<td class="top">
 							<p><strong>Web Developer at Symbios Group</strong></p>
 							<ul>
-								<li>Lead developer on instant messaging applications, such as web-based multi-user chat room and one-to-one messaging facility. Included building a JavaScript frontend and making custom modifications to open source software in various languages, such as erlang and python.</li>
+								<li>Lead developer of instant messaging applications, such as web-based multi-user chat room and one-to-one messaging facility. Included building JavaScript frontends and making custom modifications to open source software in various languages, such as erlang and python.</li>
 								<li>System administration of RedHat-based servers. Introduced the use of puppet to greatly speed up provisioning and maintaining servers.</li>
-								<li>Advocated and helped develop the use of best software development practices to improve overall code quality, such as test driven development, continuous integration, code review and bug tracking.</li>
+								<li>Advocated and helped develop the use of best software development practices amongst the development team to improve overall code quality, such as test driven development, continuous integration, code review and bug tracking.</li>
 								<li>Promoted the use of git over subversion for new development, helping the development team with any problems.</li>
 								<li>Made improvements to existing websites, such as incorporating a centralised error logging and reporting system.</li>
 							</ul>
