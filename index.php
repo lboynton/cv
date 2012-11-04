@@ -3,8 +3,9 @@
 	<head>
 		<title>Lee Boynton</title>
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen, print">
-		<link href="css/site.css" rel="stylesheet" media="screen, print">
 		<link href="css/font-awesome.css" rel="stylesheet" media="screen, print">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link href="css/site.css" rel="stylesheet" media="screen, print">
 	</head>
 	<body>
 		<div class="container">
