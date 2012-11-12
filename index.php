@@ -55,7 +55,7 @@
 					<tr>
 						<td class="left">September 2000 - July 2003</td>
 						<td class="middle">Sandown High School</td>
-						<td>9 GCSEs including Mathematics grade B, Science grade B and English grace C.</td>
+						<td>9 GCSEs including Mathematics grade B, Science grade B and English grade C.</td>
 					</tr>
 				</tbody>
 			</table>
