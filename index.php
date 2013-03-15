@@ -77,7 +77,7 @@
 					<tr>
 						<td class="left">Backend Development</td>
 						<td class="middle">10 years of experience with PHP. Familiar with MVC structure for separation of concerns.</td>
-						<td>PHP, Zend Framework, phpunit, phing, composer, MySQL, Doctrine 2, memcached, redis, MongoDB, sphinx</td>
+						<td>PHP, Zend Framework (version 1 and 2), phpunit, phing, composer, MySQL, Doctrine 2, memcached, redis, MongoDB, sphinx</td>
 					</tr>
 					<tr>
 						<td class="left">System Administration</td>
