@@ -1,3 +1,7 @@
+body
+{
+	text-align: justify;
+}
 .container
 {
 	margin: 50px auto;
@@ -13,4 +17,19 @@ table .left
 table .middle
 {
 	width: 250px;
+}
+.avatar
+{
+	float: left;
+	margin: 0 15px;
+	height: 150px;
+	width: 150px;
+}
+.header
+{
+
+}
+.middle
+{
+	clear: both;
 }
