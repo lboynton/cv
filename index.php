@@ -29,7 +29,7 @@
 				<i class="icon-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
 			</small>
 			<hr>
-			<p>Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a Hampshire-based company specialising in online dating and social networking.</p>
+			<p>Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a company based in Fareham, UK specialising in online dating and social networking. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
 			<hr>
 			<h2>Employment</h2>
 			<table class="table">
