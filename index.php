@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="utf-8">
 		<title>Lee Boynton</title>
 		<link href="css/bootstrap.css" rel="stylesheet" media="screen, print">
 		<link href="css/font-awesome.css" rel="stylesheet" media="screen, print">
