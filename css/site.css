@@ -10,7 +10,7 @@ body
 @media (min-width: 1024px) {
     .container
     {
-        max-width: 890px;
+        max-width: 1000px;
     }
 }
 table .top
@@ -39,4 +39,23 @@ table .middle
 .middle
 {
     clear: both;
+}
+.links
+{
+    list-style: none;
+}
+@media screen {
+    .links li+li:before
+    {
+        margin-left: -.6em;
+        margin-right: .6em;
+        content: "\00b7";
+        font-weight: bold;
+    }
+}
+@media print {
+    .links li
+    {
+        display: block;
+    }
 }

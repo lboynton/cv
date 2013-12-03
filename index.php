@@ -26,15 +26,15 @@
 			<div class="header">
 				<img src="img/me.jpeg" alt="Picture of Lee Boynton" class="avatar img-thumbnail">
 				<h1>Lee Boynton</h1>
-				<small>
-					<i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot;
-					<i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot;
-					<i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot;
-					<i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot;
-					<i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
-				</small>
-				<hr>
-				<p>Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a company based in Fareham, UK specialising in online dating and social networking. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
+				<ul class="links list-inline">
+					<li><i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a></li>
+					<li><i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a></li>
+					<li><i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a></li>
+					<li><i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a></li>
+					<li><i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a></li>
+		        </ul>
+		        <hr>
+				<p class="intro">Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a company based in Fareham, UK specialising in online dating and social networking. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
 			</div>
 			<div class="middle">
 				<hr>
