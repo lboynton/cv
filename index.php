@@ -3,8 +3,10 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Lee Boynton</title>
-		<link href="css/bootstrap.css" rel="stylesheet" media="screen, print">
-		<link href="css/font-awesome.css" rel="stylesheet" media="screen, print">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen, print">
+		<link href="css/bootstrap-theme.min.css" rel="stylesheet" media="screen, print">
+		<link href="css/font-awesome.min.css" rel="stylesheet" media="screen, print">
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 		<link href="css/site.css" rel="stylesheet" media="screen, print">
 		<script type="text/javascript">
@@ -22,21 +24,21 @@
 	<body>
 		<div class="container">
 			<div class="header">
-				<img src="img/me.jpeg" alt="Picture of Lee Boynton" class="avatar img-polaroid">
+				<img src="img/me.jpeg" alt="Picture of Lee Boynton" class="avatar img-thumbnail">
 				<h1>Lee Boynton</h1>
 				<small>
-					<i class="icon-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot; 
-					<i class="icon-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot; 
-					<i class="icon-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot; 
-					<i class="icon-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot; 
-					<i class="icon-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
+					<i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot; 
+					<i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot; 
+					<i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot; 
+					<i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot; 
+					<i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
 				</small>
 				<hr>
 				<p>Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a company based in Fareham, UK specialising in online dating and social networking. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
 			</div>
 			<div class="middle">
 				<hr>
-				<h2>Employment</h2>
+				<h3>Employment</h3>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -55,7 +57,7 @@
 					</tbody>
 				</table>
 				<hr>
-				<h2>Education</h2>
+				<h3>Education</h3>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -75,7 +77,8 @@
 						</tr>
 					</tbody>
 				</table>
-				<h2>Skills</h2>
+				<hr>
+				<h3>Skills</h3>
 				<table class="table">
 					<thead>
 						<tr>

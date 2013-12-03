@@ -1,29 +1,36 @@
+*
+{
+    text-align: justify;
+}
 body
 {
-	text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
-.container
-{
-	margin: 50px auto;
+@media (min-width: 1024px) {
+    .container
+    {
+        max-width: 890px;
+    }
 }
 table .top
 {
-	border-top: 0;
+    border-top: 0;
 }
 table .left
 {
-	width: 250px;
+    width: 200px;
 }
 table .middle
 {
-	width: 250px;
+    width: 250px;
 }
 .avatar
 {
-	float: left;
-	margin: 0 15px;
-	height: 150px;
-	width: 150px;
+    float: left;
+    margin: 0 15px;
+    height: 150px;
+    width: 150px;
 }
 .header
 {
@@ -31,5 +38,5 @@ table .middle
 }
 .middle
 {
-	clear: both;
+    clear: both;
 }
