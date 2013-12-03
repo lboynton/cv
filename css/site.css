@@ -10,7 +10,7 @@ body
 @media (min-width: 1024px) {
     .container
     {
-        max-width: 1000px;
+        max-width: 960px;
     }
 }
 table .top
@@ -43,6 +43,7 @@ table .middle
 .links
 {
     list-style: none;
+    text-align: left;
 }
 @media screen {
     .links li+li:before
