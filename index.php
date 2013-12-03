@@ -26,7 +26,7 @@
 			<div class="header">
 				<img src="img/me.jpeg" alt="Picture of Lee Boynton" class="avatar img-thumbnail">
 				<h1>Lee Boynton</h1>
-				<ul class="links list-inline">
+				<ul class="links list-inline small">
 					<li><i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a></li>
 					<li><i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a></li>
 					<li><i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a></li>
