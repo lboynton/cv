@@ -13,7 +13,7 @@
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-26959006-2']);
 		  _gaq.push(['_trackPageview']);
-		
+
 		  (function() {
 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -27,10 +27,10 @@
 				<img src="img/me.jpeg" alt="Picture of Lee Boynton" class="avatar img-thumbnail">
 				<h1>Lee Boynton</h1>
 				<small>
-					<i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot; 
-					<i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot; 
-					<i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot; 
-					<i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot; 
+					<i class="fa fa-home"></i> Homepage: <a href="http://lboynton.com">lboynton.com</a> &middot;
+					<i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a> &middot;
+					<i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a> &middot;
+					<i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a> &middot;
 					<i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a>
 				</small>
 				<hr>
