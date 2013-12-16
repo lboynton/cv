@@ -49,7 +49,7 @@
 									<li>Lead developer of instant messaging applications using XMPP, such as web-based multi-user chat room and one-to-one messaging facility. Included building JavaScript frontends and making custom modifications to open source software in various languages, such as erlang and python.</li>
 									<li>System administration of RedHat-based servers. Introduced the use of puppet to greatly speed up provisioning and maintaining servers.</li>
 									<li>Advocated and helped develop the use of best software development practices amongst the development team to improve overall code quality, such as test driven development, continuous integration, code review and bug tracking.</li>
-									<li>Oversaw migration from git to subversion for new development, helping the development team with any problems.</li>
+									<li>Oversaw migration from subversion to git for new development, helping the development team with any problems.</li>
 									<li>Made improvements to existing websites, such as incorporating a centralised error logging and reporting system.</li>
 								</ul>
 							</td>
