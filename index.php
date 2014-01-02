@@ -71,6 +71,11 @@
 							<td>Undergraduate degree covered topics on a variety of subjects including Java, C and PHP programming, system administration, system security and distributed web systems. Final year project was the development of a desktop instant messaging application with streaming audio features, written in Java and using XMPP.</td>
 						</tr>
 						<tr>
+							<td class="left">September 2003 – June 2005</td>
+							<td class="middle"><strong>Distinction Distinction Merit</strong> in BTEC Level 3 National Diploma for IT Practitioners</td>
+							<td>Also completed City &amp; Guilds Level 2 Diploma for IT Users with grade distinction.</td>
+						</tr>
+						<tr>
 							<td class="left">September 2000 - July 2003</td>
 							<td class="middle">Sandown High School</td>
 							<td>9 GCSEs including Mathematics grade B, Science grade B and English grade C.</td>
