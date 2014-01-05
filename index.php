@@ -72,7 +72,7 @@
 						</tr>
 						<tr>
 							<td class="left">September 2003 – June 2005</td>
-							<td class="middle"><strong>Distinction Distinction Merit</strong> in BTEC Level 3 National Diploma for IT Practitioners</td>
+							<td class="middle"><strong>Distinction Distinction Merit</strong> in BTEC Level 3 National Diploma for IT Practitioners at the Isle of Wight College</td>
 							<td>Also completed City &amp; Guilds Level 2 Diploma for IT Users with grade distinction.</td>
 						</tr>
 						<tr>
