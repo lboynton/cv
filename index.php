@@ -42,7 +42,16 @@
 				<table class="table">
 					<tbody>
 						<tr>
-							<td class="top left">October 2009 - Present</td>
+							<td class="top left">February 2014 - Present</td>
+							<td class="top">
+								<p><strong>Senior Developer at eDigitalResearch</strong></p>
+								<ul>
+									<li>Develop client websites for large brands</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<td class="top left">October 2009 - January 2014</td>
 							<td class="top">
 								<p><strong>Web Developer at Symbios Group</strong></p>
 								<ul>
