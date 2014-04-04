@@ -34,7 +34,7 @@
 					<li><i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a></li>
 		        </ul>
 		        <hr>
-				<p class="intro">Currently Web Developer at <a href="http://www.symbiosgroup.co.uk/">Symbios Group</a>, a company based in Fareham, UK specialising in online dating and social networking. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
+				<p class="intro">Currently Senior Developer at <a href="http://http://www.edigitalresearch.com/">eDigitalResearch</a>, a company based in Hedge End, UK specialising in market research. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
 			</div>
 			<div class="middle">
 				<hr>
