@@ -34,10 +34,9 @@
 					<li><i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a></li>
 		        </ul>
 		        <hr>
-				<p class="intro">Currently Senior Developer at <a href="http://http://www.edigitalresearch.com/">eDigitalResearch</a>, a company based in Hedge End, UK specialising in market research. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
+				<p class="intro">Currently Senior Developer at <a href="http://http://www.edigitalresearch.com/">eDigitalResearch</a>, a market research company based in Hedge End, UK. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
 			</div>
 			<div class="middle">
-				<hr>
 				<h3>Employment</h3>
 				<table class="table">
 					<tbody>
@@ -46,7 +45,10 @@
 							<td class="top">
 								<p><strong>Senior Developer at eDigitalResearch</strong></p>
 								<ul>
-									<li>Develop client websites for large brands</li>
+									<li>As part of a team, and through the use of PHP, Zend Framework and PostgreSQL, developed interactive community websites for various brands</li>
+									<li>Review code developed by other members of the team</li>
+									<li>Delegation of tasks to other members of the team</li>
+									<li>Helped build frontend components in AngularJS for eDigitalResearch's survey platform</li>
 								</ul>
 							</td>
 						</tr>
@@ -58,14 +60,13 @@
 									<li>Lead developer of instant messaging applications using XMPP, such as web-based multi-user chat room and one-to-one messaging facility. Included building JavaScript frontends and making custom modifications to open source software in various languages, such as erlang and python.</li>
 									<li>System administration of RedHat-based servers. Introduced the use of puppet to greatly speed up provisioning and maintaining servers.</li>
 									<li>Advocated and helped develop the use of best software development practices amongst the development team to improve overall code quality, such as test driven development, continuous integration, code review and bug tracking.</li>
-									<li>Oversaw migration from subversion to git for new development, helping the development team with any problems.</li>
+									<li>Oversaw migration from SVN to git for new development, helping the development team with any problems.</li>
 									<li>Made improvements to existing websites, such as incorporating a centralised error logging and reporting system.</li>
 								</ul>
 							</td>
 						</tr>
 					</tbody>
 				</table>
-				<hr>
 				<h3>Education</h3>
 				<table class="table">
 					<tbody>
@@ -91,7 +92,6 @@
 						</tr>
 					</tbody>
 				</table>
-				<hr>
 				<h3>Skills</h3>
 				<table class="table">
 					<thead>

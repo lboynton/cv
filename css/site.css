@@ -19,7 +19,7 @@ table .top
 }
 table .left
 {
-    width: 200px;
+    width: 140px;
 }
 table .middle
 {
@@ -62,5 +62,9 @@ table .middle
     .links li
     {
         display: block;
+    }
+    table.table
+    {
+        margin-bottom: 10px;
     }
 }
