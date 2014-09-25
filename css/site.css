@@ -23,7 +23,7 @@ table .left
 }
 table .middle
 {
-    width: 250px;
+    width: 260px;
 }
 .avatar
 {
@@ -65,6 +65,6 @@ table .middle
     }
     table.table
     {
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
 }

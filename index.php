@@ -31,10 +31,15 @@
 					<li><i class="fa fa-github"></i> GitHub: <a href="https://github.com/lboynton">lboynton</a></li>
 					<li><i class="fa fa-twitter"></i> Twitter: <a href="https://twitter.com/leeboynton">leeboynton</a></li>
 					<li><i class="fa fa-linkedin"></i> LinkedIn: <a href="http://uk.linkedin.com/pub/lee-boynton/24/489/774">Lee Boynton</a></li>
-					<li><i class="fa fa-bookmark"></i> Delicious: <a href="http://www.delicious.com/l33">l33</a></li>
 		        </ul>
 		        <hr>
-				<p class="intro">Currently Senior Developer at <a href="http://http://www.edigitalresearch.com/">eDigitalResearch</a>, a market research company based in Hedge End, UK. I also help organise meet ups for <a href="http://www.phphants.co.uk/">PHPHants</a>, a PHP user group for Hampshire, UK.</p>
+				<p class="intro">
+					Currently Senior Developer at <a href="http://http://www.edigitalresearch.com/">eDigitalResearch</a>,
+					a market research company based in Hedge End, UK. I also help organise meet ups for
+					<a href="http://www.phphants.co.uk/team">PHPHants</a>, a PHP user group for Hampshire, UK. I consider
+					myself to be a "full stack" developer with experience of both backend and frontend development, as
+					well as Linux server administration.
+				</p>
 			</div>
 			<div class="middle">
 				<h3>Employment</h3>
@@ -78,11 +83,11 @@
 						<tr>
 							<td class="left">October 2005 - June 2008</td>
 							<td class="middle"><strong>1<sup>st</sup> Class Honours</strong> in BSc Internet Technology from The University of Portsmouth</td>
-							<td>Undergraduate degree covered topics on a variety of subjects including Java, C and PHP programming, system administration, system security and distributed web systems. Final year project was the development of a desktop instant messaging application with streaming audio features, written in Java and using XMPP.</td>
+							<td>Undergraduate degree covered topics on a variety of subjects including Java, C and PHP programming, system administration, system security and distributed web systems. Final year project was the development of a desktop instant messaging application with streaming audio features (Java, XMPP).</td>
 						</tr>
 						<tr>
-							<td class="left">September 2003 – June 2005</td>
-							<td class="middle"><strong>Distinction Distinction Merit</strong> in BTEC Level 3 National Diploma for IT Practitioners at the Isle of Wight College</td>
+							<td class="left">September 2003 - June 2005</td>
+							<td class="middle"><strong>Distinction Distinction Merit</strong> in BTEC Level 3 National Diploma for IT Practitioners at Isle of Wight College</td>
 							<td>Also completed City &amp; Guilds Level 2 Diploma for IT Users with grade distinction.</td>
 						</tr>
 						<tr>
